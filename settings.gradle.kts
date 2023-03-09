@@ -1,0 +1,1 @@
+rootProject.name = "server.udaily.pichurchyk.com.udaily-server"
